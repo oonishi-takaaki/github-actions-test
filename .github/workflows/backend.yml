@@ -7,6 +7,6 @@ on:
       
 jobs:
   build:
-    run-on: ubuntu-build
+    runs-on: ubuntu-build
     steps:
       - run: echo hello world
