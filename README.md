@@ -1,3 +1,1 @@
-test
-
-gitの練習
+[![backend](https://github.com/oonishi-takaaki/github-actions-test/actions/workflows/backend.yml/badge.svg)](https://github.com/oonishi-takaaki/github-actions-test/actions/workflows/backend.yml)
